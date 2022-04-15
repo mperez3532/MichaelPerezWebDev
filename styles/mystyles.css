@@ -25,3 +25,8 @@ div.polaroid {
     text-align: center;
     padding: 10px 20px;
   }
+
+ .right {
+     position: relative;
+     left: 750px;
+ }
