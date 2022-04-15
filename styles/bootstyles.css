@@ -1,5 +1,7 @@
 body{
   background-color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14;
 }
 .unorderlist {
     list-style-type: none;
@@ -31,14 +33,10 @@ body{
   }
 
   .footer {
-    bottom: 5px;
-    height: 50px;
-    left: 5px;
-    right: 5px;
-    font-size: 12px;
-    color: #999999;
-    text-align: center;
-}
+   border-style: hidden;
+   border-width: 5px;
+   border-color: #575757;
+  }
 
 .border {
   border-style: solid;
